@@ -2,3 +2,7 @@ body {
   font-family: 'Mukta Mahee', sans-serif;
   text-align: center;
 }
+div {
+  margin-left: 20%;
+  margin-right: 20%;
+}
